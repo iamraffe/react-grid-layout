@@ -37,7 +37,7 @@
     "lodash.isequal": "^4.0.0",
     "prop-types": "^15.5.8",
     "react-draggable": "^2.2.6",
-    "react-resizable": "git+https://github.com/iamraffe/react-resizable"
+    "react-resizable": "git+https://github.com/iamraffe/react-resizable.git"
   },
   "peerDependencies": {
     "react": "^0.14.3 || ^15.0.0",
